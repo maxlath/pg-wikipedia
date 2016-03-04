@@ -1,0 +1,218 @@
+{
+  "head" : {
+    "vars" : [ "book", "bookLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3179234"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Right to Read"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1192325"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Expression of the Emotions in Man and Animals"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21127208"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Poetical Works of John Milton"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q93304"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Code of Hammurabi"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q840974"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ivanhoe"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1865620"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Little Brother"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3821271"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Vampire Countess"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q965704"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Boyhood"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1247723"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Just So Stories"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6929950"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mrs Henry de la Pasture"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21065374"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mémoires de Monsieur d'Artagnan"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3015406"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Down and Out in the Magic Kingdom"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12519"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Magna Carta"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637200"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pygmalion"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q677592"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venus in Furs"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21584784"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Footsteps of Fate"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3275960"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mademoiselle de Maupin"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19507487"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Women Painters of the World"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13581252"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A Small Boy and Others"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4726444"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alien Minds"
+      }
+    }, {
+      "book" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6296280"
+      },
+      "bookLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Journals of Expeditions of Discovery into Central Australia"
+      }
+    } ]
+  }
+}

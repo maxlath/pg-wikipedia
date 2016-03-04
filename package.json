@@ -1,0 +1,27 @@
+{
+  "name": "pg-wikipedia",
+  "version": "1.0.0",
+  "description": "Scripts for linking Wikipedia with Project Gutenberg texts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert-csv2json": "./node_modules/csvtojson/bin/csvtojson pg_wikipedia_with_titles.csv | jq '.' > pg_wikipedia_with_titles.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxlath/pg-wikipedia.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxlath/pg-wikipedia/issues"
+  },
+  "homepage": "https://github.com/maxlath/pg-wikipedia#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "csvtojson": "^0.5.2",
+    "lodash": "^4.3.0",
+    "bluereq": "^1.0.0",
+    "coffee-script": "^1.10.0"
+  }
+}
