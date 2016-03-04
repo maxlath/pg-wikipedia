@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "convert-csv2json": "./node_modules/csvtojson/bin/csvtojson pg_wikipedia_with_titles.csv | jq '.' > pg_wikipedia_with_titles.json"
+    "convert-csv2json": "./node_modules/csvtojson/bin/csvtojson pg_wikipedia_with_titles.csv | jq '.' > pg_wikipedia_with_titles.json",
+    "update-wd-entities": "./node_modules/coffee-script/bin/coffee update_wd_entities_with_gutenberg_id.coffee",
+    "import-to-wd": "./node_modules/coffee-script/bin/coffee import_ids_to_wikidata.coffee"
   },
   "repository": {
     "type": "git",
@@ -18,10 +20,12 @@
   },
   "homepage": "https://github.com/maxlath/pg-wikipedia#readme",
   "dependencies": {
+    "bluereq": "^2.0.2",
+    "coffee-script": "^1.10.0",
     "colors": "^1.1.2",
     "csvtojson": "^0.5.2",
     "lodash": "^4.3.0",
-    "bluereq": "^1.0.0",
-    "coffee-script": "^1.10.0"
+    "request": "^2.69.0",
+    "wikidata-sdk": "^2.3.0"
   }
 }
