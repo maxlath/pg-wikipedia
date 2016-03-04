@@ -42,4 +42,12 @@ post = (wdId, wdProp, gutId)->
     property: wdProp
     value: gutId
 
-addOne()
+ping = -> breq.get "#{wdAgentHost}/ping"
+
+ping()
+.then addOne
+.catch (err)->
+  console.log """
+    Wikidata Agent (https://github.com/maxlath/wikidata-agent) couldn't be reached.
+    It is expected to run on localhost:4115.
+    """.yellow
